@@ -33,7 +33,7 @@ def main():
     print("\nAll Results copied to clipboard.\nEdit from here :)")
 # ....................................................................... Sub Functions
 def title():
-    string = "july 2021\tbest acts generator\tjack allan\n"
+    string = "july 2021\tbest acts generator"
     print(string.title())
 def brand_name():
     brand_name = str(input("what brand are you representing? ".title()))
