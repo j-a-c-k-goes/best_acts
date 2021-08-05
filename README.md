@@ -1,2 +1,7 @@
 # best_acts
-Advertising and marketing copywriting program generates "best acts" statements/headlines. 
+
+program generates "best acts" statements
+
+for inspiration, social connection.
+
+an alternative to "in these unprecendented times"
